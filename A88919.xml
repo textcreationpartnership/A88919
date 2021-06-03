@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Mathematicall divine, shewing, the pesent miseries of Germany, England and Ireland. Being the effects portended by the last comet or blazing-starre of a dreadfull greatnesse, and in forme of a crooked sword, which was seene with great admiration in Europe, Anno. 1618. As also a necessary consolation to the distressed Protestants in both those his Majesties kingdomes.</title>
+         </titleStmt>
+         <extent>Approx. 32 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A88919</idno><idno type="EEBO-CITATION">99872256</idno>
+  <idno type="VID">124682</idno>
+  <idno type="EEBO-PROQUEST">2240950344</idno>
+  
+            <idno type="STC">Wing M1080</idno>
+            <idno type="STC">Thomason E244_6</idno>
+            <idno type="STC">ESTC R3015</idno>
+            <idno type="PROQUEST">99872256</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99872256e"/>
+            <note>(EEBO-TCP ; phase 2, no. A88919)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 124682)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 42:E244[6])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Mathematicall divine, shewing, the pesent miseries of Germany, England and Ireland. Being the effects portended by the last comet or blazing-starre of a dreadfull greatnesse, and in forme of a crooked sword, which was seene with great admiration in Europe, Anno. 1618. As also a necessary consolation to the distressed Protestants in both those his Majesties kingdomes.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for William Sheares,</publisher>
+                  <pubPlace>London. :</pubPlace>
+                  <date>in the yeare 1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Decemb: 10th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Comets --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  Charles I, 1625-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-12 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-09 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2014-09 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:124682:1"/>
+            <p>THE MATHEMATICALL DIVINE, SHEWING, The present MISERIES OF <hi>GERMANY, ENGLAND</hi> and <hi>JRELAND.</hi>
+            </p>
+            <p>Being The Effects portended by the last Comet or bla<g ref="char:EOLhyphen"/>zing-Starre, of a dreadfull greatnesse, and in forme of a crooked sword, which was seene with great Admira<g ref="char:EOLhyphen"/>tion in EUROPE, <hi>Anno.</hi> 1618.</p>
+            <p>As also A necessary Consolation to the distressed PROTESTANTS in both those his Majesties KINGDOMES.</p>
+            <q>
+               <l>O God, Thou that giv'st men eyes that they may see</l>
+               <l>The Comets, and their powers, to know Thee.</l>
+               <bibl>
+                  <hi>Plato.</hi>
+               </bibl>
+            </q>
+            <p>
+               <hi>LONDON.</hi> Printed for <hi>William Sheares,</hi> in the Yeare 1642.</p>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:124682:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="treatise">
+            <pb n="2" facs="tcp:124682:3"/>
+            <head>The Mathematicall Divine.</head>
+            <argument>
+               <p>Note before you read further, that the Alphabetical Elements or letters, from <hi>(a)</hi> to <hi>(t)</hi> between the lines, direct you to divers Annotations marked with the same Let<g ref="char:EOLhyphen"/>ters in the end of this worke.</p>
+            </argument>
+            <p>
+               <seg rend="decorInit">A</seg>Mongst the celestiall comminations or threatnings of Gods hand, and imminent scourge, the flaming and fearefull Comets challenge not the last place, for these doe presage both warres and slaughters, with a certaine and almost ever answering event; witnesse that most reported Comet, <hi>rubescens ferali crine,</hi> which appeared above seven weeks, provoking all men to gaze upon it.</p>
+            <p>Touching this Ostent of the divine power, namely, the unlookt for apparition, the strange progression or course, the sudden vanishing and the production of the toyle thereof. What need I speake? Those and the like, lest I be tedious, and exceed the bounds of a little booke (which kinde of wri<g ref="char:EOLhyphen"/>ting, as the only legitimate off-spring of the Presse, this yeare seemes to acknowledge) I doe purposely omit, and refer those that are desirous of such things to <hi>Keplerus, Longomontanus, Sarsius, Puteanus, Snellius, Gassendus, Cysatus, Fienus,</hi> and <hi>Fromondus,</hi> who, besides other late Comet-writers, have amply written of this most hurtfull Comet; yea more, the most learned man, so I call our Country-man) Master <hi>Bainbridge</hi> professour of Astronomy in <hi>Oxford,</hi> published in English, <hi>Anno</hi> 1619. a notable book of the motions and effects thereof.</p>
+            <p>Three things onely in this Comet were most wonderfull. 1. The heads circumfe<g ref="char:EOLhyphen"/>rence or compasse. 2. The beards prolixity or length. 3. The sublimity or height of the scituation thereof.</p>
+            <p n="1">1. The head, or round heape of stars, to the unlearned invisible, was of so vast a compasse, that no man hardly in two moneths, travelling forty miles a day, could run round about it.</p>
+            <p n="2">2. The <hi>(a)</hi> beard is extended in it's length to fifty degrees, that is, above halfe a Signe.</p>
+            <p n="3">3. The <hi>(b)</hi> scituation was not only superlunary, or above the Moone, but also supersolary, or above the Sun. For that Comet (though <hi>Aristoteles</hi> defenders may struggle against me) was not in the Elementary world, but shined out of the high Firmament to this lowest Orb, and finished it's course plainly Olympick, and regular amongst the celestiall circuits of the Planets.</p>
+            <p>Now touching the effects thereof, ô immortall God! how many more opinions of it felfe then haires hath it dispersed? Sometimes that it portends slanghter to the people, fiering of Mannours, and Cities, other whiles that it breaths out infection, poyson, &amp;c. yet that it for<g ref="char:EOLhyphen"/>beares not Kingdomes and Scepters, but unto these and those denounceth change, and de<g ref="char:EOLhyphen"/>struction to this and that King, death. To what King, or what Kingdome do ye aske? There are more minds then men, whatsoever it may be, if any one shal say, it was of Royal deaths; suppose of the most noble Emperour of <hi>Germany,</hi> and the most soveraigne Lady <hi>Anne,</hi> the most honourable of all Queenes, and likewise the fore-runner of the vexations of <hi>Germany,</hi>
+               <pb n="3" facs="tcp:124682:3"/>which for twenty three, or twenty foure yeares past, afflicted with divers fires of wars, hath put on the face of Hell. What sayd I? hath put on, nay rather as yet it is troubled and dismai<g ref="char:EOLhyphen"/>ed with war. In this year, 1642. impetuous flouds of raging and every where thundering <hi>Mars</hi> do surround almost all <hi>Germany,</hi> and threaten (unlesse the divine providence of the highest Moderator shall otherwise thinke meet) the very speedy ruine thereof. But to what end are these words? For so Christ love me, as all things which hitherto the <hi>Casarians</hi> and the contramilitant armies have done, are of no worth in respect of the greatnes of such a ce<g ref="char:EOLhyphen"/>lestiall miracle. I will speak in a word; What mortall man knoweth, whether that (I had al<g ref="char:EOLhyphen"/>most said monster of Heaven) doth point at us also and our malignant times. Surely I am of opinion (though no Prophet) that the significations thereof are not as yet expired, that is, (to deale with evidently) that all the changes which were meant by this insolent and por<g ref="char:EOLhyphen"/>tentons Ostent, are not yet finished. Neither is there a reason wanting; for from the yeare 1618. (if you except that unhappy and miserable war of <hi>Germany</hi>) nothing hath happened, which (be it spoken with others favour) may be compared with the greatnesse and unwon<g ref="char:EOLhyphen"/>tednesse of so great a spectacle. My heart is astonished to unfold what ominations and fore<g ref="char:EOLhyphen"/>tellings this instant innovating age, and the present face of our most sweet Country <hi>England</hi> in this distracted and suspected estate of things may minister or affoord. Is there any man, though blinde, that cannot heare, though deafe, that cannot see, though wanting both senses, that notwithstanding cannot feele, what this time of divinations presages and portents may bring and heap upon us? Truely I look about, and joining present with future things, be<g ref="char:EOLhyphen"/>hold all extremities hang over us, neither can there be any mischiefe imagined, which may not infest us.</p>
+            <p>First, that honour of the <hi>(f)</hi> Clergy and sacred order is decayed. The Preachers of the ho<g ref="char:EOLhyphen"/>ly Gospell (which with great greife a thousand times I have seene) are by every one vilifi<g ref="char:EOLhyphen"/>ed and made a scorne, while mechanicks thundering and lightning from the holy Tribunall of Religion (the pulpit) are worshipped of blockish people.</p>
+            <p>Secondly, the sacred mysteries (which the very Angels do feare) are trampled under foot, and derided, so as that noble Lord of invincible courage, might rightly, if he were living a<g ref="char:EOLhyphen"/>gaine, say, <hi>O my God, to What times hast thou reserved me.</hi>
+            </p>
+            <p>Thirdly, the places consecrated by our pious predecessours to divine worship, in which, God himselfe is most present with a most numerous company, his Courtiers (may I speake like a divine) are lesse esteemed then Barnes and Hog-sties. <hi>Good God, just God, that seest and govern'st all things, wilt thou suffer these?</hi> Shall that dregs or Rascal-rout with the brazen<g ref="char:EOLhyphen"/>brow of the wicked, continue their grassations and violent courses? How long shall they abuse thy divine patience? Suffer me to speak with thee as a servant with his master; how happens it that so soon as they have committed so enormous misdeeds, thou dost not forth<g ref="char:EOLhyphen"/>with with thy most powerfull iron-rod burst them in sunder, deliver them to everlasting torments, and leave them to Sathan? But <hi>Michael</hi> himselfe disputing with <hi>Lucifer</hi> about the body of <hi>Moses,</hi> taught us to forbeare imprecations or cursings. The which Arch-angel, together with the Angell my officious keeper, if Gods munificence hath assigned me any, it is meet for me most willingly and humbly in all things to obey.</p>
+            <p>Fourthly, when was Riot, Lust, pride, and all kinde of impiety greater? When lesse puni<g ref="char:EOLhyphen"/>shed? That I may hold the Angels themselves necessary to root out so great wickednesse, and that which is the head of evills.</p>
+            <p>Fiftly, the armies of unbridled Hereticks, that prosecute our native Protestants with more then <hi>Vatinian</hi> hate, and our purest religion, under the feigned veyle of devotion, with a most hostile heart, are more and more multiplyed. <hi>London</hi> that most renowned and noblest City of this Island, and the Queen of the west, lately the cheife upholder of the truth, and the crowne of true Religion, now heares the confluences and sinks of all heresies. In times past it was said, that <hi>Paris</hi> alone was burdened with fifty thousand Atheists. Surely now <hi>London</hi>
+               <pb n="4" facs="tcp:124682:4"/>only is fallen to so abominable impiety, that it abounds at this day (or I am much deceived) with so many thousand Schismaticks, and Hereticks, perhaps more to morrow, I heare they increase dayly into so great a number. Briefly, I dare say, more sects by one and a halfe be ri<g ref="char:EOLhyphen"/>sen there the last year, then in the whole christian world, from the times of the Apostles for 1600. years now past. <hi>Iraeneus</hi> doth recite about twenty several sects of Hereticks. <hi>Tertul<g ref="char:EOLhyphen"/>lian,</hi> 27. <hi>Theodoret,</hi> 76. <hi>Epiphanius.</hi> 80. <hi>Augustine,</hi> 88. <hi>Damascen.</hi> 100. <hi>Philastrius,</hi> 128. All which being many hundred yeares now past extinct and buried, seeme in this time to be raised up and called out of hell by triviall artificers and <hi>(h)</hi> men of base condition, not without the great dammage of the chiefe in <hi>London,</hi> neither as yet is the multiplying of Religions at an end.</p>
+            <p>Who can number (not to speak of the <hi>Nicholaits,</hi> the <hi>Canthari,</hi> the <hi>Arrians,</hi> the <hi>Ada<g ref="char:EOLhyphen"/>mites,</hi> whom it is a sin even to name, and other frantick people of that kinde, worthy to be put in <hi>Bethelem</hi>-hospitall neere the suburbs of <hi>London</hi>) the numberlesse kindes of most pe<g ref="char:EOLhyphen"/>stilent <hi>Anabaptists, Brownists,</hi> and <hi>Baroists,</hi> (for hardly two or three in so great a multi<g ref="char:EOLhyphen"/>tude speak the same of the same things) and other sects of <hi>Innovatours</hi> and <hi>Nugatours,</hi> to all whom and that by very good right, I may say with <hi>Tertullian</hi> (mad-man harken, what are you? when came you? from whence are you now crep't out? where have you lurk't so long? we never heard of you till now, <hi>lib. Praeser: haeret.</hi> and with <hi>Hil<g ref="char:EOLhyphen"/>ary.</hi> You are come late, you are risen too tarde, wee have long since learned, what wee ought to believe of Christ, of the Church, of the Sacraments. O my God, call back our brethren and country-men miserably seduced, and for that exceeding great good<g ref="char:EOLhyphen"/>nesse, where with thou art prevalent, fetch them out of the most thick darknesse of Sathan, that they from henceforth may praise thee, and reim-pend or bestow againe due honors on thee, and thy holy services, and may sing together that of the Psalmist, <hi>Our soule is escaped e<g ref="char:EOLhyphen"/>ven as a Sparrow, &amp;c. Psal.</hi> 124.7. In the meane time, I (the least amongst the sons of the catholick Church) do intreat, call upon and in the name of God, beseech all and every of you, to whom the Lord hath committed very large talents, that you would direct your thoughts, tongus, pens and pains even against these domestick enemies. If you have any care of salvation, and the blessed eternity, drive away with all speed such ravening wolvs from the sheep-fold of Christ. If you have any sparke of truth or feare of God, with writings, words and prayers, assault the favourers of those portentous opinions, not so, as that you may defend your owne fame, but as that you may vindicate the Majesty of the great God, the sinerity of Religion, and the honour of the Church of <hi>England,</hi> from those monsters of men, every where roving and committing spoile; especially, seeing men (I know not how many) in this most corrupt age, boastingly triumph without yoke, and without God, and insult with proud hand over all, not onely ecclesiastical (whereof some do serve God day and night) but also those, on whose shoulders the government of the people is borne, which if through fearfulnesse or sloth you refuse, God the most just avenger of idlenesse, and pusil<g ref="char:EOLhyphen"/>lanimity, will instict on you most grievous punishments.</p>
+            <p>Now seeing these things are thus, needs must he be pour-blind, that sees not the cruelscour<g ref="char:EOLhyphen"/>ges and chiliads of miseries hanging over this kingdome, and our selves placed as between the hammer and the anvile, unlesse due reverence and honour, first of all to God, next to his Sacraments, and the Temples of his heavenly Majesty, and houses of his guard, (if I may so speak) be sincerely and maturely rendred. But let me handle these things more sparingly in these ulcerous times. Let our religious King and Peeres, and other degrees of the most pro<g ref="char:EOLhyphen"/>vident Senate. (that is, the overseers of our Church, and politick government,) have a care of these things. And doubtlesse, one and the same hand will destroy the corrupters of the Church, which hath so done to the tormentors of the Common-wealth. In verity and since<g ref="char:EOLhyphen"/>rity he said, that said,
+<q>Nec dum poenae finis, scelerum quia nec dum finis: tolle scelus, caeter a nulla nocent.</q>
+            </p>
+            <pb n="5" facs="tcp:124682:4"/>
+            <p> Thus Englished,
+<q>
+                  <l>Punishment lasts, because sin doth not end;</l>
+                  <l>Take away sin, and nothing doth offend.</l>
+               </q>
+            </p>
+            <p>But here I cannot but lament the lamentable case of our neighbouring Country <hi>Germany,</hi> which of all in the whole habitable world is the most discomfited, and which for the noise of armes, and the profuse shedding of bloud, hath as it were the eyes, not onely of the <hi>French</hi> and <hi>Spanish</hi> fighting with them, but of all <hi>Europe</hi> turned upon it. The <hi>Netherlands</hi> now a long time, and much have had the eyes of all turn'd upon it. <hi>France</hi> many times as often, sometimes <hi>Denmark, Swethland</hi> and <hi>Spain,</hi> and a long time <hi>Germany</hi> drunk with the bloud of her brood, and now Ireland every where estuating with warlike flames. O <hi>Ircland,</hi> lately most flourishing, who may worthily bewaile thy falling liberty? Who, thy afflicted Religi<g ref="char:EOLhyphen"/>on? Who thy intestine massacres and civill ruines? though with the sorrowfull Prophet <hi>Je<g ref="char:EOLhyphen"/>remy</hi> 9.1. he turn'd his forehead into a fountaine, and his eyes into Rivers. Not a great, but almost an infinite number of men have of late perished by confounding armies on both sides, neither can we as yet fore-see, what further evill the late evening may bring, unlesse Gods mercy, the Queen of heaven (in the blessed <hi>Augustines</hi> stile) doe prevent it. I tremble to re<g ref="char:EOLhyphen"/>hearse the horrid slaughters, and crueller then cruelty it selfe, which those <hi>(m)</hi> Irish tigers, either to extort mony, or to prove their strength, or for their pleasure and delight have in di<g ref="char:EOLhyphen"/>vers places exercised. Infants they have cruelly cut a sunder, men and women alive (ô hor<g ref="char:EOLhyphen"/>rible wickednesse) they have fley'd, and inforced Church-men (saving your presence) to de<g ref="char:EOLhyphen"/>voure their owne privities, thereof deprived, and to conclude, they have rip't up womens wombs, to see whether humane stomacks could concoct such food. In a word, read al the an<g ref="char:EOLhyphen"/>nals of all Tyrants that ever hath been and all the affaires of the Barbarians most inhumanly acted, yea, the tragical fables and fictions of the Poets which they have devised to terrifie men. And survey the dens of Tigres, Beares, and Lyons, surely you shal never finde any such examples of cruelty, neither amongst men, nor amongst the beasts themselves. Fie upon you, you most mischievous sons in law of <hi>Cain,</hi> so inhumane to your neighbouring Country<g ref="char:EOLhyphen"/>men, and so rebellious to your most indulgent Prince, doubly more worthy of hell, then the bloudy Spaniards themselves in the slaughter of a thousand millions of Indians. But let us leave them to their offended God.</p>
+            <p>Now, ye most afflicted exiles, who being reduced to extreme penury, do wander every where, like the Sainits, <hi>Heb.</hi> 11.37, 38. destituted, oppressed, and ill-habited; abide a while with patient mind, as the kingly Psalmist admonisheth, <hi>Psal.</hi> 27.14. and 37.7.34. and assume Catonian, I would have said Christian countenances. Let this one saying of <hi>David</hi> and <hi>Ho<g ref="char:EOLhyphen"/>race</hi> abundantly suffice you.</p>
+            <p>(n) <hi>Non si male nunc &amp; olim, sic erit.</hi>
+            </p>
+            <p>Though now and heretofore it was not well, it shall be otherwise.</p>
+            <p>He that gives lawes to the raging seas, and the impetuous winds, and governes them, will when it shal seem good to him, grievously rebuke both the authors and fomentors of those troubles. Let them a thousand times disgest and re-disgest their wicked counsels, they shall ever vanish into vapours. It is a firm Tenet, that a conspiracy, though mask't with a most spe<g ref="char:EOLhyphen"/>cious vizard of religion, had hardly ever any good successe, unless that which so great tiran<g ref="char:EOLhyphen"/>ny hath preceded, which may move heaven, and with prayers and tears provoke God him<g ref="char:EOLhyphen"/>selfe to just vengeance. That most impious conspiracy against our most pious and gentle King, cannot therefore be prosperous, and consequently your present cal unity is only a smal shadow that wil soon passe away. This most mournful time, I confidently declare, serenity and tranquility shal succeed. <hi>Nube solet pulsa candidus ire dies, Post unbile Phoebus,</hi> that is,
+<q>
+                  <l>Darknesse remov'd the day goes cleare,</l>
+                  <l>After dark clouds <hi>Sol</hi> doth appeare.</l>
+               </q>
+            </p>
+            <p>There are some of little faith and short hope, that use to bee hot with wrath,
+<gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="4" facs="tcp:124682:5"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="5" facs="tcp:124682:5"/>
+               <pb n="6" facs="tcp:124682:6"/>to rage and curse their enemies with all execrations, to dart greivous words against Gods providence ban the Devils engines &amp;c. fie on those vaine barren invectives, altogether unworthy of a Christian, Gods providence do you accuse neither heavily nor secretly, and beare your miscries howsoever most grievous, gently, and with thanksgiving. Let me advise every one of you, that so often as he shall heare, the war there is uncertain, or the enemies ad<g ref="char:EOLhyphen"/>vance the Crest for their prosperous event, to lift up his hands and heart unto heaven, saying, <hi>(o) O Lord God I give thee thanks, that it pleaseth thy most holy will to exercise mee with long trouble:</hi> I know that this shall be <hi>(p)</hi> very profitable to me, seeing nothing in this world is done without thy providence. Nothing in this world comes to passe without Gods provi<g ref="char:EOLhyphen"/>dence; without which, not a leafe in Antumne falleth: And yet do you think that your hou<g ref="char:EOLhyphen"/>ses are burnt, and your goods taken away by the most cruell enemy, wasting all things with sword and fire, while his providence is still asleep? Every thing I say, whatsoever is done in the world, is done by the beck and commandement of God: no adversity happens any where unto any man without his beck and will. A most plentifull witnesse hereof is <hi>Job,</hi> a man of a most upright life, who being bereft of all his children and substance, by the tongues of his kinsfolks, and also of his wife miserably tormented, swarming all over with marvellous sore biles, neverthelesse amongst so many stormes of affliction stood upright, and as a Champion triumphing on the dunghill, cryed out with a most noble spirit, <hi>The Lord gave, and the Lord hath taken. away, (q) even as it hath pleased the Lord, so it is come to passe, blessed be the name of the Lord.</hi> This do you say a thousand times, ponder a thousand times, repeat a thousand times, even againe, againe and againe, for you can neither say nor consider any thing greater or better then this; <hi>The Lord gave, and the Lord &amp;c.</hi> God is wholly the same that he was in the time of <hi>Job,</hi> as mighty and as mercifull; who will not forsake you, nor let your enemies passe unpunished.</p>
+            <p>Moreover (not to speak of the detestable cursed losses, and other great mischeifs that those <hi>Cateline</hi>-whelps have very lately committed) do you think that God sleeps to so horrid ho<g ref="char:EOLhyphen"/>micides? nothing lesse, murders shall not abide unrevenged, the bloud of so many thousands unjustly massacred, most fervently requireth vengeance at Gods hands. Confide ye there<g ref="char:EOLhyphen"/>fore in God (that I may speake much in few words) for the God of the Protestants is nei<g ref="char:EOLhyphen"/>ther deafe nor dead as <hi>Fhas</hi> mocked the <hi>Banlites,</hi> but he will maturely finde a mean where<g ref="char:EOLhyphen"/>by in time taken, hee will shew himselfe, not only to be the defender and vindicator of his Church, and our <hi>Charles,</hi> (whom in his royal Fathers-throne, may hee that hath placed him there, very long preserve, though <hi>Irish</hi> conspiratours <hi>(r)</hi> fret, fume, and rage.) But I heare some say, The Rebels have a great army, (which is thought to be many thousands) and are well provided of all warlike furniture and ammunition, <hi>France</hi> and <hi>Flanders</hi> bring them ayd, &amp;c. What then? To God and the celestiall Militia it is but a pastime to overcome the greatest Armies, whether like those of <hi>Xerxes</hi> with <hi>Herodotus,</hi> reckoning the scullions and slaves accounted to five millions, and two thousand fighting men, yea, all the bands of devils.</p>
+            <p>Let that saying of a writer of most worthy note conclude mine; The most provident God is wont to change even the worst evills of them that love him, to most joyfull successes. Wherfore as Mariners do prepare all things for sailing, but abides Gods pleasure for a wind: so do not you neglect your duty, and God who beholds your calamaties, heares your sighes and groanes, and is a witnesse of your teares and praiers, will take care of the rest.</p>
+            <p>Grant o Lord of Hosts, that this evill may creep no further, and let that infernall <hi>Bellona</hi> far from thence, or thence for ever depart, never to returne; or if these my prayers, for just causes to us unknown, thou deny, yet grant I beseech thee, that in our dayes <hi>England</hi> may have peace, to the end it may a long time affoord a tranquile and peaceable entertainment to the Church of Christ; and that also the Theologick war that now burneth in <hi>England,</hi> and wide spreads it selfe (touching these things which are called indifferent) thou doe most hap<g ref="char:EOLhyphen"/>pily compose.</p>
+            <q>
+               <pb n="7" facs="tcp:124682:6"/>
+               <l>Now in the world's last age</l>
+               <l>Brittaine through Christ doth raign,</l>
+               <l>Command, from enemies rage,</l>
+               <l>That She may safe remaine:</l>
+               <l>And of the barbarous Church, the rule uniust,</l>
+               <l>Confound and scatter, as the winde the dust.</l>
+            </q>
+            <p>These things my piety to my Country hath commanded me, as also the impiety of war<g ref="char:EOLhyphen"/>lovers, who subtilly endeavour utterly to destroy the golden peace of our most sweet Coun<g ref="char:EOLhyphen"/>try, and over-cloud her serenity, if any credit might be given to report.</p>
+            <p>Let us, if we would have the Lord propitious and favourable unto us his servants, be pro<g ref="char:EOLhyphen"/>pitious and favourable unto our fellow-servants; And surely, unlesse wee degenerate into beasts or stones, it cannot be but with our benificence or charity, we may relieve the <hi>Irish</hi> fled and cast out of their Country, <hi>Omnia sua (perverso sensu) secum portantes,</hi> carrying with them (in a hard sense) all they had; the books of God are very full of incitements hereunto. I will profer only one, in the great day of the last judgement, no scholler shall be questioned of <hi>Aristoteles</hi> texts, nor the Aphorisms of <hi>Hippocrates,</hi> nor the Titles and Paragraphs of <hi>Iu<g ref="char:EOLhyphen"/>stinian,</hi> nor any Lay-men, how many fervent prayers he hath poured forth, how many sacred Sermons, with drinking eares, he hath heard in Churches (much more to speak mildly in ob<g ref="char:EOLhyphen"/>scure houses) how often he hath sitten at divine banquets, and how much oyle, sweat, and bloud he hath spent to promote the worship of God? But all the questions shall be of cha<g ref="char:EOLhyphen"/>rity only, what monies he hath given to the poore, what meat for the hungry, and what clo<g ref="char:EOLhyphen"/>thing for the naked, &amp;c. In that most abounding multitude of those that rise again, before all Angels, Christ doth not say (as Saint <hi>Augustine</hi> truely and firmely) that <hi>Abel</hi> was the first Martyr, that <hi>Abraham</hi> excelled in obedience, that <hi>Moses</hi> made Lawes, that <hi>Peter</hi> first as<g ref="char:EOLhyphen"/>cended Christs-crosse. These things I say the Judge will forbeare to speake, and will pro<g ref="char:EOLhyphen"/>claime only, Who gave him food when he was poore? who offred him clothing when he was naked, who took him home and cherished him? these things with a little variation, the gemme and starre of our ancient Fathers, Saint <hi>Augustine</hi> hath in his epistles. O heare and seriously consider you that put away Christ naked in the poore, and adorne your horses with gold and silver trappings. Many arguments I could here heap to kindle the rich unto charity towards the most miserable <hi>Irish,</hi> as these, that almes-givers are very largely commended through the whole Bible, that they shall gaine to themselves an immortall name with that most happy sinner, and finally receive of God, a most ample reward. For in the day of retri<g ref="char:EOLhyphen"/>bution, they shall receive for hundreds, for halfe-pence, and for the crummes of their tables, a garment of glory, the treasures of heaven, and delights not to be determined.</p>
+         </div>
+      </body>
+      <back>
+         <div type="annotations">
+            <head>The Annotations whereunto you are directed in the beginning of this Work.</head>
+            <p>
+               <hi>(a)</hi> By the opinion of Cysatus, it might have <hi>70.</hi> times compassed the whole Globe of earth,</p>
+            <p>
+               <hi>(b)</hi> Cysatus placed it betweene Mars and Sol, Keplerus <hi>30.</hi> times higher then the Moone.</p>
+            <p>
+               <hi>(c)</hi> A Comet preceded the death (if we may credit Dion) of Claudius, Vitellius, Vespasian, Didius, Iulian, Severus, Marcrinus, &amp;c. To whom adde the late German Caesars, Charles the fifth and Matthias.</p>
+            <p>
+               <hi>(d)</hi> The Comet in <hi>1618.</hi> was fatall to the Emperour Matthias, and Anne Queene of Brittaine, she departed to the Seats of the blessed Soules, March <hi>2. 1619.</hi> March. <hi>10.</hi> Stylo Anglia.</p>
+            <p>
+               <hi>(e)</hi> It seemes to me incredible, that this Comet shewen almost to the whole world, should draw Germany perticularly and only into martiall tumults, as if nothing else in the world were arrested to be tumultuously done, but in Germany.</p>
+            <pb n="8" facs="tcp:124682:7"/>
+            <p>
+               <hi>(f)</hi> The Clergy of England at this day may iustly use the prayer and plaint of the Kingly Prophet, <hi>Have mercy upon us, O Lord, have mercy upon us, for we are utterly despised, &amp;c.</hi>
+            </p>
+            <p>
+               <hi>(g)</hi> God hath committed the charge of keeping us unto the Angels, his messengers betweene heaven and earth, but whether he hath appointed a tutelary Angel or not, I will not rashly declare.</p>
+            <p>
+               <hi>(h)</hi> Saint <hi>Basil,</hi> to the Emperours Cook babling for <hi>Arian,</hi> said, It is thy part to boile pot<g ref="char:EOLhyphen"/>tage, and not to expound the Gospel: and the Duke of Saxony willed <hi>Peucerus,</hi> medling with Divinity, to meddle with his physicke, to look into urinals, letting divine causes alone. Let our busie-bodies note this, who being mad with wicked zeale, break out of the bounds of their vo<g ref="char:EOLhyphen"/>cation whereunto God hath called them, and endeavour new governments, building new Ieru<g ref="char:EOLhyphen"/>salems.</p>
+            <p>
+               <hi>(i)</hi> I call to witnesse the Pasquils worthy of eternall fire, hither and thither dispersed by the crast of base condition'd varlets, and by the subtle art of man-haters, that set up a marke whereat impious authors may levell, and by whose perverse reading heedlesse people and idle wits doe sup up deadly poyson.</p>
+            <p>
+               <hi>(k)</hi> In times past they kissed the doores of Temples, in reverence of those sacred places, which I neither approve, nor reprove. Alas, how unlike that is the face of this time? Many men doe extremely hate even the very honouable Cathedrall of Saint <hi>Paul</hi> as the Tower of Babylon, or the Store-house (to use the gentlest phrase) of Popish superstitions.</p>
+            <p>
+               <hi>(l)</hi> Scarce from the appearance of the new star in the Serpent, <hi>1604.</hi> did they rest in Russia, Sweden, Livonia, Poland, Denmark, and so afterwards in the whole Roman Empire from wars and cruell conflicts, chiefly under colour of Religion.</p>
+            <p>
+               <hi>(m)</hi> The Irish bloud-suckers have slaughtered myriads or ten thousands of Protestants in a short time, and that with so monstrous cruelty, that all the cruelties of all times were games and sports in respect of their inhumanity.</p>
+            <p>
+               <hi>(n) Psal. 30.5. Hor. lib. 2. Ode 10.</hi> So <hi>Virgil, Dabit Deus his quoque finem,</hi> God to these also will vouchsafe an end. So <hi>Ovid, Flebila principium melior fortuna sequetur,</hi> Wofull be<g ref="char:EOLhyphen"/>ginnings better fortunes follow. Likewise that other, <hi>Grata superveniet, quae non sperabitur hora,</hi> A gentle time unhoped for shall succeed.</p>
+            <p>
+               <hi>(o)</hi> In miseries and griefes one thankes to God is more prevalent, then six thousand in pro<g ref="char:EOLhyphen"/>sperity.</p>
+            <p>
+               <hi>(p)</hi> The calamity of war is often prolonged, that the crowne of victory may increase.</p>
+            <p>
+               <hi>(q)</hi> Trust in God never shines more cleare, then in midst of damages, or when all things are most unquiet.</p>
+            <p>
+               <hi>(r)</hi> When the Hungarians would expell their King, one refusing said, <hi>Whomsoever I shall see invested with the sacred Diadem, though he be an Oxe, I will adore for one that might not be hurt or violated on pain of death.</hi> Twin to this was a Nobleman of England, that sa<g ref="char:EOLhyphen"/>crificed his fortunes in defence of the Kings cause, <hi>Camd. Rem. pag. 241.</hi> Fie, how much doe the Irish Conspirators digresse from their mind, while they so mischievously rise up against their lawfull, peaceable, I may adde, just and mercifull King?</p>
+            <p>
+               <hi>(s)</hi> The Lord sayes, Nothing of all other good deeds done by the just, and thought almes, only worthy of remembrance, <hi>Aug. tom. 10. hom. 28.</hi>
+            </p>
+            <p>
+               <hi>(t)</hi> How many Kings have made themselves robes? founded statues and cities? how many learned men have distilled on paper all their braines through a quill, like Chimists, that they might be accounted amongst memorable men, who notwithstanding lye involved in the night of silence? But the fame of <hi>Mary Magdalen</hi> to this day endureth, and shall endure for ever, <hi>Matth. 26.13.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </back>
+   </text>
+</TEI>
